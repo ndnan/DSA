@@ -1,0 +1,11 @@
+From Video 1 
+------------
+URL: https://www.youtube.com/watch?v=fWRzpBDxXtk&list=PLMCXHnjXnTnsWU7jYp9XCKPW8ayl6D8fb&index=1 
+
+1. Good Coding Practices
+2. Test Case Generation
+3. Fast I/O for JAVA
+4. GitHub Integration
+5. Testing through multiple solvers
+6. Java 8 features
+7. Multithreading
